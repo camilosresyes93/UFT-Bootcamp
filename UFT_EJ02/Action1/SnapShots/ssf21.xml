@@ -1,0 +1,45 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Advantage Shopping_2&quot;).Page(&quot;Advantage Shopping&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf21.html</FileName>
+				<URL>http://advantageonlineshopping.com/#/product/16</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>http://advantageonlineshopping.com/#/product/16</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Advantage Shopping 2&quot;).Page(&quot;Advantage Shopping&quot;).WebEdit(&quot;quantity&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>279</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>type</PropName>
+						<PropVal>text</PropVal>
+					</Property>
+					<Property>
+						<PropName>name</PropName>
+						<PropVal>quantity</PropVal>
+					</Property>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>WebEdit</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>INPUT</PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//DIV[@id=&quot;productProperties&quot;]/DIV[2]/E-SEC-PLUS-MINUS[1]/DIV[1]/DIV[2]/INPUT[1]</PropVal>
+					</Property>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>
