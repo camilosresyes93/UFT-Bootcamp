@@ -1,0 +1,49 @@
+<ActiveScreenInfo>
+	<Snapshot xsi:type="Web" id="1">
+		<Viewer>Mercury.SSHWeb</Viewer>
+		<WebMetaData StaticSave="0" HasUnknownEncoding="0"/>
+		<Parent>Browser(&quot;Advantage Shopping&quot;).Page(&quot;Advantage Shopping&quot;)</Parent>
+		<Resources>
+			<Resource>
+				<FileName>ssf2.html</FileName>
+				<URL>http://advantageonlineshopping.com/#/category/Tablets/3</URL>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<UrlWithoutForm>http://advantageonlineshopping.com/#/category/Tablets/3</UrlWithoutForm>
+				<CodePage>65001</CodePage>
+			</Resource>
+		</Resources>
+		<HighlightObjects>
+			<HighlightObject>
+				<HighlightID>Browser(&quot;Advantage Shopping&quot;).Page(&quot;Advantage Shopping&quot;).Image(&quot;fetchImage?image id3100&quot;)</HighlightID>
+				<FrameDOMHierarchy>0</FrameDOMHierarchy>
+				<SourceIndex>334</SourceIndex>
+				<ObjectDescription>
+					<Property>
+						<PropName>micclass</PropName>
+						<PropVal>Image</PropVal>
+					</Property>
+					<Property>
+						<PropName>image type</PropName>
+						<PropVal>Plain Image</PropVal>
+					</Property>
+					<Property>
+						<PropName>html tag</PropName>
+						<PropVal>IMG</PropVal>
+					</Property>
+					<Property>
+						<PropName>alt</PropName>
+						<PropVal></PropVal>
+					</Property>
+					<Property>
+						<PropName>_xpath</PropName>
+						<PropVal>//DIV[3]/SECTION[1]/ARTICLE[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/UL[1]/LI[1]/IMG[1]</PropVal>
+					</Property>
+					<Selector>
+						<SelectorName>index</SelectorName>
+						<SelectorVal>1</SelectorVal>
+					</Selector>
+				</ObjectDescription>
+			</HighlightObject>
+		</HighlightObjects>
+	</Snapshot>
+</ActiveScreenInfo>
